@@ -1,0 +1,28 @@
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\GlossaryX.exe.config
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\GlossaryX.exe
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\GlossaryX.pdb
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\linq2db.dll
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\MySql.Data.dll
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\linq2db.pdb
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\linq2db.xml
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\MySql.Data.xml
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\obj\Debug\GlossaryX.csprojResolveAssemblyReference.cache
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\obj\Debug\GlossaryX.csproj.CoreCompileInputs.cache
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\obj\Debug\GlossaryX.exe
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\obj\Debug\GlossaryX.pdb
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\TablesView.exe
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\TablesView.pdb
+D:\Projects\КНЕУ\Системи автоматизованого управління 4 семестр КНЕУ\Приложение\GlossaryX\GlossaryX\bin\Debug\TablesView.exe.config
+D:\GlossaryX\GlossaryX\bin\Debug\GlossaryX.exe.config
+D:\GlossaryX\GlossaryX\bin\Debug\GlossaryX.exe
+D:\GlossaryX\GlossaryX\bin\Debug\GlossaryX.pdb
+D:\GlossaryX\GlossaryX\bin\Debug\linq2db.dll
+D:\GlossaryX\GlossaryX\bin\Debug\MySql.Data.dll
+D:\GlossaryX\GlossaryX\bin\Debug\linq2db.pdb
+D:\GlossaryX\GlossaryX\bin\Debug\linq2db.xml
+D:\GlossaryX\GlossaryX\bin\Debug\MySql.Data.xml
+D:\GlossaryX\GlossaryX\obj\Debug\GlossaryX.csproj.CoreCompileInputs.cache
+D:\GlossaryX\GlossaryX\obj\Debug\GlossaryX.exe
+D:\GlossaryX\GlossaryX\obj\Debug\GlossaryX.pdb
+D:\GlossaryX\GlossaryX\obj\Debug\GlossaryX.csprojAssemblyReference.cache
+D:\GlossaryX\GlossaryX\obj\Debug\GlossaryX.csproj.CopyComplete
